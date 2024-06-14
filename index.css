@@ -1,0 +1,15 @@
+.fir{
+    display: flex;
+    padding: 10px;
+    font-size: larger;
+}
+.fir p{
+    border: solid;
+    display: inline-block;
+    background-color: blue;
+    width: 100px;
+    height: 150px;
+
+
+
+}
